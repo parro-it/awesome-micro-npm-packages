@@ -23,6 +23,7 @@
 * [array-range](https://github.com/mattdesl/array-range) - Creates a new array with given range.
 * [arr-diff](https://github.com/jonschlinkert/arr-diff) - Returns an array with only the unique values from the first array, by excluding all values from additional arrays using strict equality for comparisons.
 * [filled-array](https://github.com/sindresorhus/filled-array) - Returns an array filled with the specified input
+* [map-array](https://github.com/parro-it/map-array) - Map object keys and values into an array.
 
 ### String
 
