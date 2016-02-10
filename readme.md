@@ -87,6 +87,7 @@
 * [rimraf](https://github.com/isaacs/rimraf) - A deep deletion module for node (like rm -rf).
 * [mkdirp](https://github.com/substack/node-mkdirp) - Recursively mkdir, like mkdir -p.
 * [du] (https://github.com/rvagg/node-du) - A simple JavaScript implementation of du -sb.
+* [file-size](https://www.npmjs.com/package/file-size) - Lightweight filesize to human-readable / proportions w/o dependencies.
 
 ### Browser
 
