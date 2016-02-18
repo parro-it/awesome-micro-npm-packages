@@ -100,12 +100,14 @@
 
 * [semver](https://github.com/npm/node-semver) - The semantic version parser used by npm.
 * [semver-max](https://github.com/eush77/semver-max) - Find maximum (or minimum) version according to semver.
-* [glob](https://github.com/isaacs/node-glob) - glob functionality for node.js.
+* [semver-first-satisfied](https://github.com/parro-it/semver-first-satisfied) - Find minimum in an array of version that satisfies a semver range.
+
 
 
 ### CLI
 
 * [abbrev](https://github.com/isaacs/abbrev-js) - Calculate the set of unique abbreviations for a given set of strings.
+* [glob](https://github.com/isaacs/node-glob) - Glob functionality for node.js.
 
 ### Module management
 
