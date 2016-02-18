@@ -100,6 +100,8 @@
 
 * [semver](https://github.com/npm/node-semver) - The semantic version parser used by npm.
 * [semver-max](https://github.com/eush77/semver-max) - Find maximum (or minimum) version according to semver.
+* [glob](https://github.com/isaacs/node-glob) - glob functionality for node.js.
+
 
 ### CLI
 
