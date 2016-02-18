@@ -46,6 +46,7 @@
 
 * [pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
 * [hirestime](https://github.com/seriousManual/hirestime) - A wrapper around the built-in high resolution timer which simplifies the calculation of timestamps.
+* [periods](https://github.com/timruffles/periods) - Defined time-periods constants for Javascript, in milliseconds.
 
 ### Object
 
