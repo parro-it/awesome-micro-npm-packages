@@ -63,6 +63,7 @@
 * [has-value](https://www.npmjs.com/package/has-value) - Returns true if a value exists, false if empty. Works with deeply nested values using dot notation (`'a.b.c'`) paths.
 * [flatkeys](https://github.com/ricardobeat/flatkeys) - Flatten object key hierarchies into a list of strings using a custom separator.
 * [flatten-obj](https://github.com/watson/flatten-obj) - Converts an object literal with deeply nested nodes to a simple key/value object.
+* [is-empty-object](https://github.com/gummesson/is-empty-object) - Check if an object is empty.
 
 ### Function
 
