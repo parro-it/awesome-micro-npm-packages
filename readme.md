@@ -93,6 +93,7 @@
 * [du](https://github.com/rvagg/node-du) - A simple JavaScript implementation of du -sb.
 * [file-size](https://github.com/Nijikokun/file-size) - Lightweight filesize to human-readable / proportions w/o dependencies.
 * [tmp](https://github.com/raszi/node-tmp) - Temporary file and directory creator for node.js.
+* [fs-promise](https://github.com/kevinbeaty/fs-promise) - Node fs methods as Promise/A+ (optional fs-extra, graceful-fs).
 
 ### Browser
 
