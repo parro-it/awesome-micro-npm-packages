@@ -76,6 +76,10 @@
 * [identity-function](https://github.com/substack/identity-function) - Always return the input argument. 
 * [mem](https://github.com/sindresorhus/mem) - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 
+### Math
+
+* [is-number](https://github.com/jonschlinkert/is-number) - Returns `true` if the value is a number.
+
 ### Stream
 * [through2](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
 * [through2-filter](https://github.com/brycebaril/through2-filter) - A through2 to create an Array.prototype.filter analog for streams.
