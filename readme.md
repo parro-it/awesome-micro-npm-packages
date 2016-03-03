@@ -48,6 +48,7 @@
 * [hirestime](https://github.com/seriousManual/hirestime) - A wrapper around the built-in high resolution timer which simplifies the calculation of timestamps.
 * [periods](https://github.com/timruffles/periods) - Defined time-periods constants for Javascript, in milliseconds.
 * [fecha](https://github.com/taylorhakes/fecha) - Javascript Date formatting and parsing.
+* [akamai-time-reference](https://github.com/jucrouzet/akamai-time-reference) - Get reference time using Akamai's time reference service.
 
 ### Object
 
