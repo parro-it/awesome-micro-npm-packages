@@ -92,7 +92,7 @@
 
 ### Promise
 
-* [thenify](https://github.com/thenables/thenify) - Promisify a callback-based function.
+* [pify](https://github.com/sindresorhus/pify) - Promisify a callback-style function.
 * [promise-all-props](https://github.com/Siilwyn/promise-all-props) - Like `Promise.all` but for object properties.
 
 ### File System
