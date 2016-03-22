@@ -129,14 +129,14 @@
 * [pkg-conf](https://github.com/sindresorhus/pkg-conf) - Get namespaced config from the closest package.json.
 * [normalize-pkg](https://github.com/jonschlinkert/normalize-pkg) - Normalize values in package.json to improve compatibility, programmatic readability and usefulness with third party libs.
 
+### Generators
+
+* [is-generator](https://github.com/blakeembrey/is-generator) - Check whether a given value is a generator function.
+
 ### Other
 
 * [node-uuid](https://github.com/broofa/node-uuid) - Generate RFC-compliant UUIDs in JavaScript.
 * [node-mime](https://github.com/broofa/node-mime) - Comprehensive MIME type mapping API based on mime-db module.
-
-## Generators
-
-* [is-generator](https://github.com/blakeembrey/is-generator) - Check whether a given value is a generator function.
 
 ## Related lists
 
