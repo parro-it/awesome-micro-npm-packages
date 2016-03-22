@@ -94,6 +94,7 @@
 
 * [pify](https://github.com/sindresorhus/pify) - Promisify a callback-style function.
 * [promise-all-props](https://github.com/Siilwyn/promise-all-props) - Like `Promise.all` but for object properties.
+* [sleep-promise](https://github.com/brummelte/sleep-promise) - Resolves a promise after a specified delay.
 
 ### File System
 
