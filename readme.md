@@ -30,6 +30,7 @@
 ### String
 
 * [decamelize](https://github.com/sindresorhus/decamelize) - Convert a camelized string into a lowercased one with a custom separator: unicornRainbow → unicorn_rainbow.
+* [pad-left](https://github.com/jonschlinkert/pad-left) - Left pad a string with zeros or a specified string.
 * [to-camel-case](https://github.com/ianstormtaylor/to-camel-case) - Convert a string to a camel case.
 * [to-capital-case](https://github.com/ianstormtaylor/to-capital-case) - Convert a string to a capital case.
 * [to-constant-case](https://github.com/ianstormtaylor/to-constant-case) - Convert a string to a constant case.
