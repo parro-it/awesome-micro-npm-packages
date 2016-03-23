@@ -26,6 +26,7 @@
 * [arr-diff](https://github.com/jonschlinkert/arr-diff) - Returns an array with only the unique values from the first array, by excluding all values from additional arrays using strict equality for comparisons.
 * [filled-array](https://github.com/sindresorhus/filled-array) - Returns an array filled with the specified input
 * [map-array](https://github.com/parro-it/map-array) - Map object keys and values into an array.
+* [arr-filter-function](https://github.com/tunnckoCore/arr-filter-function) - Filter array to have only `function` values. Faster than native array filter using `arr-map`.
 
 ### String
 
