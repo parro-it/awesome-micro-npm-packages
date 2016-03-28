@@ -70,6 +70,7 @@
 * [flatten-obj](https://github.com/watson/flatten-obj) - Converts an object literal with deeply nested nodes to a simple key/value object.
 * [is-empty-object](https://github.com/gummesson/is-empty-object) - Check if an object is empty.
 * [stringify-object](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes.
+* [sorted-object](https://github.com/domenic/sorted-object) - Returns a copy of an object with its keys sorted.
 
 ### Function
 
