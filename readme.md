@@ -148,6 +148,7 @@
 
 * [node-uuid](https://github.com/broofa/node-uuid) - Generate RFC-compliant UUIDs in JavaScript.
 * [node-mime](https://github.com/broofa/node-mime) - Comprehensive MIME type mapping API based on mime-db module.
+* [not-defined](https://github.com/fibo/not-defined) - Is a shortcut to `typeof foo === 'undefined'`.
 
 ## Related lists
 
