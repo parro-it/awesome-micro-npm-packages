@@ -77,6 +77,7 @@
 * [is-empty-object](https://github.com/gummesson/is-empty-object) - Check if an object is empty.
 * [stringify-object](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes.
 * [sorted-object](https://github.com/domenic/sorted-object) - Returns a copy of an object with its keys sorted.
+* [static-props](https://github.com/fibo/static-props) - Defines static object attributes using `Object.defineProperties`
 
 ### Function
 
