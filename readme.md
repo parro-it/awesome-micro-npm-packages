@@ -32,6 +32,8 @@
 * [map-array](https://github.com/parro-it/map-array) - Map object keys and values into an array.
 * [in-array](https://github.com/jonschlinkert/in-array) - Return true if any of passed values exists in array - faster than using indexOf.
 * [unordered-array-remove](https://github.com/mafintosh/unordered-array-remove) - Efficiently remove an element from an unordered array without doing a splice.
+* [array-portal](https://github.com/michaelzoidl/array-portal) - Make a portal between two arrays and transfer items between them
+* [array-swap](https://github.com/michaelzoidl/swap-array) - Swap position of two items in an array.
 
 
 ### String
