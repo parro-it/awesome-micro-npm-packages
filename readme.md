@@ -101,6 +101,7 @@
 * [concat-stream](https://github.com/maxogden/concat-stream) - writable stream that concatenates strings or data and calls a callback with the result.
 * [JSONStream](https://github.com/dominictarr/JSONStream) - streaming JSON.parse and stringify
 * [through2-map-promise](https://github.com/RangerMauve/through2-map-promise) - A small promise-based wrapper for through2.
+* [pump](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes.
 
 ### Promise
 
