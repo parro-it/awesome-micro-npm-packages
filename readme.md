@@ -139,6 +139,7 @@
 * [abbrev](https://github.com/isaacs/abbrev-js) - Calculate the set of unique abbreviations for a given set of strings.
 * [glob](https://github.com/isaacs/node-glob) - Glob functionality for node.js.
 * [username](https://github.com/sindresorhus/username) - Get the username of the current user.
+* [minimist](https://github.com/substack/minimist) - Parse argument options.
 
 ### Module management
 
