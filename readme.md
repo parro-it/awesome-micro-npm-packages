@@ -125,6 +125,8 @@
 * [delegate](https://github.com/zenorocha/delegate) - Lightweight event delegation.
 * [insert-css](https://github.com/substack/insert-css) - Insert a string of css into the head
 * [dom-element-value](https://github.com/crysalead-js/dom-element-value) - DOM element value getter/setter.
+* [image-promise](https://github.com/bfred-it/image-promise) - Load one or more `<img>`s in a Promise.
+* [get-media-size](https://github.com/bfred-it/get-media-size) - Get the original size of any `img`/`video`/`svg`/`canvas` tags or canvas context.
 
 ### Semver
 
