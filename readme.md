@@ -79,6 +79,7 @@
 * [stringify-object](https://github.com/yeoman/stringify-object) - Stringify an object/array like JSON.stringify just without all the double-quotes.
 * [sorted-object](https://github.com/domenic/sorted-object) - Returns a copy of an object with its keys sorted.
 * [static-props](https://github.com/fibo/static-props) - Defines static object attributes using `Object.defineProperties`
+* [missing-deep-keys](https://github.com/vladgolubev/missing-deep-keys) - Returns an array of keys from first object that are missing in second.
 
 ### Function
 
