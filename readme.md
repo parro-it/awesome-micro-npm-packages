@@ -50,7 +50,7 @@
 * [to-space-case](https://github.com/ianstormtaylor/to-space-case) - Convert a string to a space case.
 * [to-title-case](https://github.com/ianstormtaylor/to-title-case) - Convert a string to a title case.
 * [node-slug](https://github.com/dodo/node-slug) - slugifies even utf-8 chars.
-* [ltrim](https://github.com/sergejmueller/ltrim) - Strip whitespace - or other characters - from the beginning of a string.
+* [rtrim](https://github.com/sergejmueller/rtrim) - Strip whitespace - or other characters - from the end of a string.
 
 ### Date & Time
 
