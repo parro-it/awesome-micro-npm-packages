@@ -51,7 +51,7 @@
 * [to-title-case](https://github.com/ianstormtaylor/to-title-case) - Convert a string to a title case.
 * [node-slug](https://github.com/dodo/node-slug) - slugifies even utf-8 chars.
 * [rtrim](https://github.com/sergejmueller/rtrim) - Strip whitespace - or other characters - from the end of a string.
-* [pys](https://github.com/hustcc/pys) - Javascript library to engance String.substring / Array.slice with python slice style.
+* [slice.js](https://github.com/hustcc/slice.js) - Javascript library to engance String.substring / Array.slice with python slice style.
 
 ### Date & Time
 
@@ -60,7 +60,7 @@
 * [periods](https://github.com/timruffles/periods) - Defined time-periods constants for Javascript, in milliseconds.
 * [fecha](https://github.com/taylorhakes/fecha) - Javascript Date formatting and parsing.
 * [akamai-time-reference](https://github.com/jucrouzet/akamai-time-reference) - Get reference time using Akamai's time reference service.
-* [timeago.js](http://timeago.org) - A tiny(~1.7kb) library used to format date with `*** time ago` statement.
+* [timeago.js](https://github.com/hustcc/timeago.js) - A tiny(~1.7kb) library used to format date with `*** time ago` statement.
 
 ### Object
 
