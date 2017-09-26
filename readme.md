@@ -150,6 +150,7 @@
 * [glob](https://github.com/isaacs/node-glob) - Glob functionality for node.js.
 * [username](https://github.com/sindresorhus/username) - Get the username of the current user.
 * [minimist](https://github.com/substack/minimist) - Parse argument options.
+* [png-to-ico](https://github.com/steambap/png-to-ico) - Convert png to windows ico format.
 
 ### Module management
 
