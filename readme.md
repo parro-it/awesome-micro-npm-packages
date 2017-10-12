@@ -95,6 +95,7 @@
 * [deep-bind](https://github.com/jonschlinkert/deep-bind) - Bind a context to all functions in an object, including deeply nested functions.
 * [identity-function](https://github.com/substack/identity-function) - Always return the input argument. 
 * [mem](https://github.com/sindresorhus/mem) - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
+* [throttle-debounce](https://github.com/niksy/throttle-debounce) - Throttle/debounce your functions.
 
 ### Math
 
