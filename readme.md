@@ -54,6 +54,7 @@
 * [node-slug](https://github.com/dodo/node-slug) - slugifies even utf-8 chars.
 * [rtrim](https://github.com/sergejmueller/rtrim) - Strip whitespace - or other characters - from the end of a string.
 * [slice.js](https://github.com/hustcc/slice.js) - Javascript library to engance String.substring / Array.slice with python slice style.
+* [strip-ansi](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes.
 
 ### Date & Time
 
