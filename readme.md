@@ -171,7 +171,7 @@
 
 * [node-uuid](https://github.com/broofa/node-uuid) - Generate RFC-compliant UUIDs in JavaScript.
 * [node-mime](https://github.com/broofa/node-mime) - Comprehensive MIME type mapping API based on mime-db module.
-* [not-defined](https://github.com/fibo/not-defined) - Is a shortcut to `(typeof foo === 'undefined') || (foo === null)`.
+* [not-defined](https://github.com/fibo/not-defined) - Checks if foo is not defined, i.e. undefined, null, an empty string, array or object.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) - Check if a string represent a fully qualified domain name.
 
 ## Related lists
