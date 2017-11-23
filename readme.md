@@ -157,6 +157,7 @@
 * [minimist](https://github.com/substack/minimist) - Parse argument options.
 * [png-to-ico](https://github.com/steambap/png-to-ico) - Convert png to windows ico format.
 * [help-version](https://github.com/eush77/help-version) - Easily handle --help and --version arguments in your CLI application
+- [overtime](https://github.com/diit/overtime-cli) - Easily create timezone overlap tables, built for remote teams.
 
 ### Module management
 
