@@ -64,6 +64,7 @@
 * [fecha](https://github.com/taylorhakes/fecha) - Javascript Date formatting and parsing.
 * [akamai-time-reference](https://github.com/jucrouzet/akamai-time-reference) - Get reference time using Akamai's time reference service.
 * [timeago.js](https://github.com/hustcc/timeago.js) - A tiny(~1.7kb) library used to format date with `*** time ago` statement.
+* [count-days-in-month](https://github.com/shinnn/count-days-in-month) - Get the number of days in a given month.
 
 ### Object
 
