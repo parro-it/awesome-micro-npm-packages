@@ -36,7 +36,7 @@
 * [unordered-array-remove](https://github.com/mafintosh/unordered-array-remove) - Efficiently remove an element from an unordered array without doing a splice.
 * [array-swap](https://github.com/michaelzoidl/swap-array) - Swap position of two items in an array.
 * [mirrarray](https://github.com/johnwquarles/mirrarray) - Creates a keymirror object from an array of valid keys.
-
+* [group-array](https://github.com/doowb/group-array) - Group array of objects into lists.
 
 ### String
 
