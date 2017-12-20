@@ -56,6 +56,7 @@
 * [rtrim](https://github.com/sergejmueller/rtrim) - Strip whitespace - or other characters - from the end of a string.
 * [slice.js](https://github.com/hustcc/slice.js) - Javascript library to engance String.substring / Array.slice with python slice style.
 * [strip-ansi](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes.
+* [striptags](https://github.com/ericnorris/striptags) - An implementation of PHP's strip_tags in Node.js.
 
 ### Date & Time
 
