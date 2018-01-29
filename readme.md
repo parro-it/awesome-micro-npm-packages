@@ -68,6 +68,7 @@
 * [timeago.js](https://github.com/hustcc/timeago.js) - A tiny(~1.7kb) library used to format date with `*** time ago` statement.
 * [count-days-in-month](https://github.com/shinnn/count-days-in-month) - Get the number of days in a given month.
 * [time-stamp](https://github.com/jonschlinkert/time-stamp) - Get a formatted timestamp.
+* [twas](https://github.com/vutran/twas) - Generate a relative time string (Example: "3 seconds ago")
 
 ### Object
 
