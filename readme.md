@@ -57,6 +57,7 @@
 * [slice.js](https://github.com/hustcc/slice.js) - Javascript library to engance String.substring / Array.slice with python slice style.
 * [strip-ansi](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes.
 * [striptags](https://github.com/ericnorris/striptags) - An implementation of PHP's strip_tags in Node.js.
+* [parse-next-json-value](https://github.com/ErikOnBike/parse-next-json-value) - Parse next JSON value from string allowing extraneous characters after value.
 
 ### Date & Time
 
