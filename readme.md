@@ -121,6 +121,8 @@
 * [pump](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes.
 * [split](https://github.com/dominictarr/split) - Break up a stream and reassemble it so that each line is a chunk.
 * [is-stream](https://github.com/sindresorhus/is-stream) - Check if something is a Node.js stream.
+* [syncthrough](https://github.com/mcollina/syncthrough) - Transform your data as it pass by, synchronously.
+
 
 ### Promise
 
