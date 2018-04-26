@@ -149,6 +149,7 @@
 * [image-promise](https://github.com/bfred-it/image-promise) - Load one or more `<img>`s in a Promise.
 * [get-media-size](https://github.com/bfred-it/get-media-size) - Get the original size of any `img`/`video`/`svg`/`canvas` tags or canvas context.
 * [document-ready](https://github.com/bendrucker/document-ready) - Document ready listener for modern browsers.
+* [copee](https://github.com/styfle/copee) - Copy text from browser to clipboard...natively!
 
 ### Semver
 
