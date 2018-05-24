@@ -131,6 +131,7 @@
 * [promise-all-props](https://github.com/Siilwyn/promise-all-props) - Like `Promise.all` but for object properties.
 * [sleep-promise](https://github.com/brummelte/sleep-promise) - Resolves a promise after a specified delay.
 * [is-promise](https://github.com/then/is-promise) - Test whether an object looks like a promises-a+ promise.
+* [promise-unified](https://github.com/BlackHole1/promise-unified) - Add a unified operation for Promise.
 
 ### File System
 
