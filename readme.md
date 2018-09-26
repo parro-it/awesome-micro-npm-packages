@@ -110,6 +110,7 @@
 ### Math
 
 * [is-number](https://github.com/jonschlinkert/is-number) - Returns `true` if the value is a number.
+* [easy-math.js](https://github.com/kingzez/easy-math.js) - A tiny easy math include addition multiplication subtraction division.
 
 ### Stream
 * [through2](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
