@@ -10,7 +10,7 @@
 * [One-line node modules](https://github.com/sindresorhus/ama/issues/10)
 * [Build small single purpose modules](http://thenodeway.io/introduction/#build-small-single-purpose-modules)
 * [Module best practices](https://github.com/mattdesl/module-best-practices)
-* [Evaluating Packages Part 1 - Turn to community](http://bytearcher.com/articles/evaluating-packages-1-check-community/) 
+* [Evaluating Packages Part 1 - Turn to community](http://bytearcher.com/articles/evaluating-packages-1-check-community/)
 * [Evaluating Packages Part 2 - Review repository](http://bytearcher.com/articles/evaluating-packages-2-review-repository/)
 * [Small modules: it’s not quite that simple](https://medium.com/@Rich_Harris/small-modules-it-s-not-quite-that-simple-3ca532d65de4)
 * [Hyper Modular Packages: A Crazy Cult or a Reasonable Practice?](http://thefullstack.xyz/hyper-modular-packages-a-crazy-cult-or-a-reasonable-practice/)
@@ -93,7 +93,7 @@
 * [sorted-object](https://github.com/domenic/sorted-object) - Returns a copy of an object with its keys sorted.
 * [static-props](https://github.com/fibo/static-props) - Defines static object attributes using `Object.defineProperties`
 * [missing-deep-keys](https://github.com/vladgolubev/missing-deep-keys) - Returns an array of keys from first object that are missing in second.
-* [has-own-property](https://github.com/LinusU/has-own-property) - Check if an object has a local property. 
+* [has-own-property](https://github.com/LinusU/has-own-property) - Check if an object has a local property.
 * [merge-objects](https://github.com/shevaroller/node-merge-objects) - Deep-merge two objects. Arrays that are values of the same object key get concatenated.
 * [deep-object-diff](https://github.com/mattphillips/deep-object-diff) - Deep diff two JavaScript Objects while preserving the data structure. Including nested structures of Arrays and Objects.
 
@@ -103,7 +103,7 @@
 * [curry](https://github.com/dominictarr/curry) - A curry function without anything too clever.
 * [once](https://github.com/isaacs/once) - Run a function exactly one time.
 * [deep-bind](https://github.com/jonschlinkert/deep-bind) - Bind a context to all functions in an object, including deeply nested functions.
-* [identity-function](https://github.com/substack/identity-function) - Always return the input argument. 
+* [identity-function](https://github.com/substack/identity-function) - Always return the input argument.
 * [mem](https://github.com/sindresorhus/mem) - An optimization technique used to speed up consecutive function calls by caching the result of calls with identical input.
 * [throttle-debounce](https://github.com/niksy/throttle-debounce) - Throttle/debounce your functions.
 * [compose-tiny](https://github.com/hipstersmoothie/compose-tiny) - A very tiny and fast compose function.
@@ -184,6 +184,7 @@
 * [node-mime](https://github.com/broofa/node-mime) - Comprehensive MIME type mapping API based on mime-db module.
 * [not-defined](https://github.com/fibo/not-defined) - Checks if foo is not defined, i.e. undefined, null, an empty string, array or object.
 * [is-fqdn](https://github.com/parro-it/is-fqdn) - Check if a string represent a fully qualified domain name.
+* [base](https://github.com/bWhirring/Base) - some commonly used basic js function
 
 ## Related lists
 
