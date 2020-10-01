@@ -113,6 +113,7 @@
 * [is-number](https://github.com/jonschlinkert/is-number) - Returns `true` if the value is a number.
 * [is-odd](https://github.com/jonschlinkert/is-odd) - A good way to tell if a number is odd or not (avoids type issues). Uses `is-number` under the hood.
 * [easy-math.js](https://github.com/kingzez/easy-math.js) - A tiny easy math library including addition, multiplication, subtraction, and division.
+* [my-prime](https://github.com/jinnatul/my-prime) - A good way to tell if a number is prime or not.
 
 ### Stream
 * [through2](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
