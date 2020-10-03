@@ -114,6 +114,7 @@
 * [is-odd](https://github.com/jonschlinkert/is-odd) - A good way to tell if a number is odd or not (avoids type issues). Uses `is-number` under the hood.
 * [easy-math.js](https://github.com/kingzez/easy-math.js) - A tiny easy math library including addition, multiplication, subtraction, and division.
 * [my-prime](https://github.com/jinnatul/my-prime) - A good way to tell if a number is prime or not.
+* [fun-gcd](https://github.com/zubayerhimel/fun-gcd) - A tiny math library to get gcd of two numbers using Euclidean algorithm
 
 ### Stream
 * [through2](https://github.com/rvagg/through2) - Tiny wrapper around Node streams2 Transform to avoid explicit subclassing noise.
