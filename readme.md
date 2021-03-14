@@ -54,7 +54,7 @@
 * [to-title-case](https://github.com/ianstormtaylor/to-title-case) - Convert a string to a title case.
 * [node-slug](https://github.com/dodo/node-slug) - slugifies even utf-8 chars.
 * [rtrim](https://github.com/sergejmueller/rtrim) - Strip whitespace - or other characters - from the end of a string.
-* [slice.js](https://github.com/hustcc/slice.js) - Javascript library to engance String.substring / Array.slice with python slice style.
+* [slice.js](https://github.com/hustcc/slice.js) - Javascript library to enhance String.substring / Array.slice with python slice style.
 * [strip-ansi](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes.
 * [striptags](https://github.com/ericnorris/striptags) - An implementation of PHP's strip_tags in Node.js.
 * [parse-next-json-value](https://github.com/ErikOnBike/parse-next-json-value) - Parse next JSON value from string allowing extraneous characters after value.
