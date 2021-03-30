@@ -58,6 +58,8 @@
 * [strip-ansi](https://github.com/chalk/strip-ansi) - Strip ANSI escape codes.
 * [striptags](https://github.com/ericnorris/striptags) - An implementation of PHP's strip_tags in Node.js.
 * [parse-next-json-value](https://github.com/ErikOnBike/parse-next-json-value) - Parse next JSON value from string allowing extraneous characters after value.
+* [pluralize](https://github.com/DaniAkash/pluralizer) - A very tiny library to pluralize words
+
 
 ### Date & Time
 
