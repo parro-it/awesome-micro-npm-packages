@@ -139,6 +139,10 @@
 * [sleep-promise](https://github.com/brummelte/sleep-promise) - Resolves a promise after a specified delay.
 * [is-promise](https://github.com/then/is-promise) - Test whether an object looks like a promises-a+ promise.
 
+### Data Structure
+
+* [quetie](https://github.com/TomerAberbach/quetie) - Just the cutest and tiniest queue/deque implementation!
+
 ### File System
 
 * [rimraf](https://github.com/isaacs/rimraf) - A deep deletion module for node (like rm -rf).
