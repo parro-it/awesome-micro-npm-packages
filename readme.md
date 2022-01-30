@@ -16,7 +16,7 @@
 * [In Defense of Hyper Modular JavaScript](https://medium.freecodecamp.com/in-defense-of-hyper-modular-javascript-33934c79e113)
 * [Tiny npm package: Guidelines to create a Node.js module following the small package philosophy](http://g14n.info/2015/12/tiny-npm-package/)
 * [The cost of small modules](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/)
-* [Why I think "micro-packages" are a good thing.](http://codetunnel.io/why-i-think-micro-packages-are-a-good-thing/)
+* [Why I think "micro-packages" are a good thing.](https://www.chevtek.io/why-i-think-micro-packages-are-a-good-thing/)
 
 ## Modules
 
@@ -25,6 +25,7 @@
 * [is-sorted](https://github.com/dcousens/is-sorted) - A small module to check if an Array is sorted.
 * [array-first](https://github.com/jonschlinkert/array-first) - Get the first element or first n elements of an array.
 * [array-last](https://github.com/jonschlinkert/array-last) - Return the last element in an array.
+* [array-mid](https://github.com/evanbiederstedt/array-mid) - Return the middle elements in an array.
 * [arr-flatten](https://github.com/jonschlinkert/arr-flatten) - Recursively flatten an array or arrays.
 * [dedupe](https://github.com/seriousManual/dedupe) - Remove duplicates from an array.
 * [array-range](https://github.com/mattdesl/array-range) - Creates a new array with given range.
