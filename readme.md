@@ -37,6 +37,7 @@
 * [mirrarray](https://github.com/johnwquarles/mirrarray) - Creates a keymirror object from an array of valid keys.
 * [group-array](https://github.com/doowb/group-array) - Group array of objects into lists.
 * [array.chunk](https://github.com/zhiyelee/array.chunk) - Split array/TypedArray to chunks of given size.
+* [fast-cartesian](https://github.com/ehmicky/fast-cartesian) - Fast cartesian product.
 
 ### String
 
