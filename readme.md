@@ -16,7 +16,6 @@
 * [In Defense of Hyper Modular JavaScript](https://medium.freecodecamp.com/in-defense-of-hyper-modular-javascript-33934c79e113)
 * [Tiny npm package: Guidelines to create a Node.js module following the small package philosophy](http://g14n.info/2015/12/tiny-npm-package/)
 * [The cost of small modules](https://nolanlawson.com/2016/08/15/the-cost-of-small-modules/)
-* [Why I think "micro-packages" are a good thing.](http://codetunnel.io/why-i-think-micro-packages-are-a-good-thing/)
 
 ## Modules
 
