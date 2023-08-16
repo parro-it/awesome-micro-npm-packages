@@ -161,6 +161,7 @@
 * [get-media-size](https://github.com/bfred-it/get-media-size) - Get the original size of any `img`/`video`/`svg`/`canvas` tags or canvas context.
 * [document-ready](https://github.com/bendrucker/document-ready) - Document ready listener for modern browsers.
 * [copee](https://github.com/styfle/copee) - Copy text from browser to clipboard...natively!
+* [color-scheme-switcher](https://github.com/Californian/color-scheme-switcher) - Color scheme switcher for react. Sets color scheme either manually or automatically, based on system color scheme or the sun.
 
 ### Semver
 
