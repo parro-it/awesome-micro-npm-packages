@@ -178,6 +178,7 @@
 * [minimist](https://github.com/substack/minimist) - Parse argument options.
 * [png-to-ico](https://github.com/steambap/png-to-ico) - Convert png to windows ico format.
 * [help-version](https://github.com/eush77/help-version) - Easily handle --help and --version arguments in your CLI application
+* [npm-deprecated-check](https://github.com/KID-joker/npm-deprecated-check) - Check for deprecated packages and recommend alternative packages.
 
 ### Module management
 
