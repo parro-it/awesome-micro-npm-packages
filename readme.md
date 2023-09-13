@@ -198,6 +198,10 @@
 * [mime-type-check](https://github.com/RocktimSaikia/mime-type-check) - Get the MIME type of a file by its extension.
 * [nanoid](https://github.com/ai/nanoid) - A tiny (130 bytes), secure, URL-friendly, unique string ID generator for JavaScript
 
+### Tools
+
+* [npm-deprecated-check](https://github.com/KID-joker/npm-deprecated-check) - Check for deprecated packages and recommend alternative packages.
+
 ## Related lists
 
 This section contains awesome lists that you may find useful if you use or write small NPM modules.
