@@ -60,7 +60,6 @@
 * [pluralize](https://github.com/DaniAkash/pluralizer) - A very tiny library to pluralize words
 * [currency-to-float](https://github.com/mateus4k/currency-to-float) - Convert a currency string to number: `US $54.99` → `54.99`
 
-
 ### Date & Time
 
 * [pretty-ms](https://github.com/sindresorhus/pretty-ms) - Convert milliseconds to a human readable string: 1337000000 → 15d 11h 23m 20s.
