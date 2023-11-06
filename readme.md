@@ -58,7 +58,7 @@
 * [striptags](https://github.com/ericnorris/striptags) - An implementation of PHP's strip_tags in Node.js.
 * [parse-next-json-value](https://github.com/ErikOnBike/parse-next-json-value) - Parse next JSON value from string allowing extraneous characters after value.
 * [pluralize](https://github.com/DaniAkash/pluralizer) - A very tiny library to pluralize words
-
+* [currency-to-float](https://github.com/mateus4k/currency-to-float) - Convert a currency string to number: `US $54.99` → `54.99`
 
 ### Date & Time
 
