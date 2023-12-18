@@ -151,6 +151,7 @@
 * [tmp](https://github.com/raszi/node-tmp) - Temporary file and directory creator for node.js.
 * [fs-promise](https://github.com/kevinbeaty/fs-promise) - Node fs methods as Promise/A+ (optional fs-extra, graceful-fs).
 * [read-git-user](https://github.com/RocktimSaikia/read-git-user) - Reads the username and email from `.gitconfig` :wrench: and returns it as json object.
+* [dir2tree](https://github.com/zakarialaoui10/dir2tree) - Create organized json tree from a root directory .
 
 ### Browser
 
